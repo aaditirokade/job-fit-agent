@@ -1,0 +1,10 @@
+# personal data: keep your real resume and reports off GitHub
+my_resume*
+reports/
+.env
+
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+private/
